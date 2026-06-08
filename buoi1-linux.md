@@ -1,1 +1,0 @@
-### hocj linux os -ubuntu
