@@ -2466,48 +2466,6 @@ VPC Peering
 
 ---
 
-# 37. THỨ TỰ ƯU TIÊN CHO DEVOPS/SRE
-
-## 🔴 Ưu tiên rất cao
-
-1. IP Address.
-2. CIDR.
-3. Subnetting.
-4. Routing.
-5. TCP.
-6. UDP.
-7. ICMP.
-8. ARP.
-9. DNS.
-10. Linux Networking.
-11. HTTP/HTTPS.
-12. Reverse Proxy.
-13. Nginx.
-14. Load Balancer.
-15. Troubleshooting.
-
-## 🟠 Ưu tiên cao
-
-16. Firewall.
-17. TLS.
-18. SSH.
-19. VPC.
-20. Subnet.
-21. Route Table.
-22. NAT.
-23. Internet Gateway.
-24. Security Group.
-
-## 🟡 Học sau
-
-25. VLAN.
-26. Trunk.
-27. STP nâng cao.
-28. IPv6 nâng cao.
-29. Routing Protocol chuyên sâu.
-
----
-
 # 38. KIẾN TRÚC TỔNG QUÁT CẦN NHỚ
 
 ```text
@@ -2627,9 +2585,6 @@ HTTP
 APPLICATION
 ```
 
-Đây là chuỗi tư duy quan trọng nhất để chuyển từ **học Networking** sang **troubleshooting hệ thống thực tế** trong DevOps/SRE.
-
----
 
 # 40. CHECKLIST TỰ ĐÁNH GIÁ
 
@@ -2723,6 +2678,7 @@ Load Balancer
 Application
 ```
 
-**Ưu tiên học sâu nhất:** `IP + CIDR/Subnetting + Routing + TCP/IP + ARP + DNS + Linux Networking + HTTP/HTTPS + Nginx/Reverse Proxy + Load Balancer + Troubleshooting`.
 
-Đây là phần kiến thức có giá trị thực tế cao nhất đối với mục tiêu **DevOps/SRE**, trong khi VLAN/STP và Routing Protocol chuyên sâu có thể học sau khi nền tảng trên đã vững.
+
+
+
